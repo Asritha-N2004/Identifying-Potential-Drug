@@ -1,0 +1,1057 @@
+{
+  "dataset_version": "synthetic-v2",
+  "graph_sha256": "ff7eb183d843c3a43c28d7f6eaa96b9d2c4cd722f8f60ad65a5757fbe9671e71",
+  "synthetic": true,
+  "seed": 42,
+  "model": "R-GCN + DistMult",
+  "version": "1",
+  "epochs_requested": 60,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.7226749062538147,
+      "validation_loss": 0.6759155988693237
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6367592811584473,
+      "validation_loss": 0.6577979326248169
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.5692561864852905,
+      "validation_loss": 0.7091971635818481
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.5075948238372803,
+      "validation_loss": 0.8161436319351196
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.46138468384742737,
+      "validation_loss": 0.934940755367279
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.41644880175590515,
+      "validation_loss": 1.0943036079406738
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.39108484983444214,
+      "validation_loss": 1.2777410745620728
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.3731447756290436,
+      "validation_loss": 1.472679615020752
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.3641071915626526,
+      "validation_loss": 1.6725951433181763
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.35648974776268005,
+      "validation_loss": 1.8764652013778687
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.35177668929100037,
+      "validation_loss": 2.059346914291382
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.34780701994895935,
+      "validation_loss": 2.254318952560425
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.3443555533885956,
+      "validation_loss": 2.457094192504883
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.3430505096912384,
+      "validation_loss": 2.630366325378418
+    }
+  ],
+  "split": {
+    "train": 57,
+    "validation": 19,
+    "test": 20
+  },
+  "metrics": {
+    "R-GCN": {
+      "roc_auc": 0.41000000000000003,
+      "average_precision": 0.5614523028571016,
+      "precision_at_10": 0.4,
+      "recall_at_10": 0.4,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          0.1,
+          0.1,
+          0.6,
+          0.6,
+          0.7,
+          0.7,
+          0.9,
+          0.9,
+          1.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.1,
+          0.1,
+          0.3,
+          0.3,
+          0.5,
+          0.5,
+          0.6,
+          0.6,
+          0.8,
+          0.8,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.9,
+          0.8,
+          0.8,
+          0.7,
+          0.6,
+          0.6,
+          0.6,
+          0.5,
+          0.5,
+          0.4,
+          0.3,
+          0.3,
+          0.3,
+          0.3,
+          0.3,
+          0.3,
+          0.2,
+          0.1,
+          0.1,
+          0.0
+        ],
+        "y": [
+          0.5,
+          0.47368421052631576,
+          0.4444444444444444,
+          0.47058823529411764,
+          0.4375,
+          0.4,
+          0.42857142857142855,
+          0.46153846153846156,
+          0.4166666666666667,
+          0.45454545454545453,
+          0.4,
+          0.3333333333333333,
+          0.375,
+          0.42857142857142855,
+          0.5,
+          0.6,
+          0.75,
+          0.6666666666666666,
+          0.5,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Logistic regression": {
+      "roc_auc": 1.0,
+      "average_precision": 1.0,
+      "precision_at_10": 1.0,
+      "recall_at_10": 1.0,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.7,
+          0.9,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.2,
+          0.7,
+          0.9,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.9,
+          0.7,
+          0.6,
+          0.5,
+          0.4,
+          0.3,
+          0.2,
+          0.0
+        ],
+        "y": [
+          0.5,
+          0.5263157894736842,
+          0.5882352941176471,
+          0.625,
+          0.6666666666666666,
+          0.7142857142857143,
+          0.7692307692307693,
+          0.8333333333333334,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Random forest": {
+      "roc_auc": 1.0,
+      "average_precision": 1.0,
+      "precision_at_10": 1.0,
+      "recall_at_10": 1.0,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          1.0,
+          0.0
+        ],
+        "y": [
+          0.5,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Common neighbors": {
+      "roc_auc": 0.5,
+      "average_precision": 0.5,
+      "precision_at_10": 0.5,
+      "recall_at_10": 0.5,
+      "hit_at_10": true,
+      "reciprocal_rank": 0.5,
+      "roc": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.0
+        ],
+        "y": [
+          0.5,
+          1.0
+        ]
+      }
+    },
+    "Jaccard": {
+      "roc_auc": 0.5,
+      "average_precision": 0.5,
+      "precision_at_10": 0.5,
+      "recall_at_10": 0.5,
+      "hit_at_10": true,
+      "reciprocal_rank": 0.5,
+      "roc": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.0
+        ],
+        "y": [
+          0.5,
+          1.0
+        ]
+      }
+    },
+    "Adamic-Adar": {
+      "roc_auc": 0.5,
+      "average_precision": 0.5,
+      "precision_at_10": 0.5,
+      "recall_at_10": 0.5,
+      "hit_at_10": true,
+      "reciprocal_rank": 0.5,
+      "roc": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.0
+        ],
+        "y": [
+          0.5,
+          1.0
+        ]
+      }
+    },
+    "Resource allocation": {
+      "roc_auc": 0.5,
+      "average_precision": 0.5,
+      "precision_at_10": 0.5,
+      "recall_at_10": 0.5,
+      "hit_at_10": true,
+      "reciprocal_rank": 0.5,
+      "roc": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.0
+        ],
+        "y": [
+          0.5,
+          1.0
+        ]
+      }
+    },
+    "Personalized PageRank": {
+      "roc_auc": 1.0,
+      "average_precision": 1.0,
+      "precision_at_10": 1.0,
+      "recall_at_10": 1.0,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.7,
+          0.9,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.2,
+          0.7,
+          0.9,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.9,
+          0.7,
+          0.6,
+          0.5,
+          0.4,
+          0.3,
+          0.2,
+          0.0
+        ],
+        "y": [
+          0.5,
+          0.5263157894736842,
+          0.5882352941176471,
+          0.625,
+          0.6666666666666666,
+          0.7142857142857143,
+          0.7692307692307693,
+          0.8333333333333334,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Logistic regression: topology only": {
+      "roc_auc": 1.0,
+      "average_precision": 1.0,
+      "precision_at_10": 1.0,
+      "recall_at_10": 1.0,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.7,
+          0.9,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.2,
+          0.7,
+          0.9,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.9,
+          0.7,
+          0.6,
+          0.5,
+          0.4,
+          0.3,
+          0.2,
+          0.0
+        ],
+        "y": [
+          0.5,
+          0.5263157894736842,
+          0.5882352941176471,
+          0.625,
+          0.6666666666666666,
+          0.7142857142857143,
+          0.7692307692307693,
+          0.8333333333333334,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Logistic regression: degree only": {
+      "roc_auc": 0.5,
+      "average_precision": 0.5,
+      "precision_at_10": 0.5,
+      "recall_at_10": 0.5,
+      "hit_at_10": true,
+      "reciprocal_rank": 0.5,
+      "roc": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.0
+        ],
+        "y": [
+          0.5,
+          1.0
+        ]
+      }
+    }
+  },
+  "limitations": [
+    "Sampled unlabeled controls are not confirmed negatives.",
+    "Random pair split only; no temporal or cold-start validation.",
+    "Pooled ranking metrics apply to the sampled test set, not disease-specific retrieval.",
+    "Synthetic fixture results do not estimate biomedical performance.",
+    "No calibrated clinical probabilities or confidence intervals."
+  ],
+  "split_pairs": {
+    "train": [
+      {
+        "drug": "SYNTHETIC:Drug:9",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:7",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:19",
+        "disease": "SYNTHETIC:Disease:7",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:1",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:10",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:19",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:8",
+        "disease": "SYNTHETIC:Disease:0",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:10",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:17",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:1",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:16",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:2",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:14",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:14",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:6",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:0",
+        "disease": "SYNTHETIC:Disease:0",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:3",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:4",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:7",
+        "disease": "SYNTHETIC:Disease:7",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:19",
+        "disease": "SYNTHETIC:Disease:0",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:8",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:6",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:2",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:7",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:19",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:14",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:18",
+        "disease": "SYNTHETIC:Disease:6",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:23",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:10",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:13",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:6",
+        "disease": "SYNTHETIC:Disease:6",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:1",
+        "disease": "SYNTHETIC:Disease:7",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:21",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:19",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:9",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:18",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:5",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:13",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:13",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:16",
+        "disease": "SYNTHETIC:Disease:6",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:15",
+        "disease": "SYNTHETIC:Disease:7",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:5",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:16",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:12",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:13",
+        "disease": "SYNTHETIC:Disease:7",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:21",
+        "disease": "SYNTHETIC:Disease:7",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:4",
+        "disease": "SYNTHETIC:Disease:7",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:9",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:22",
+        "disease": "SYNTHETIC:Disease:6",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:20",
+        "disease": "SYNTHETIC:Disease:0",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:18",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:21",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:23",
+        "disease": "SYNTHETIC:Disease:7",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:18",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:17",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:12",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:15",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 1
+      }
+    ],
+    "validation": [
+      {
+        "drug": "SYNTHETIC:Drug:1",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:15",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:17",
+        "disease": "SYNTHETIC:Disease:0",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:23",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:13",
+        "disease": "SYNTHETIC:Disease:0",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:22",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:8",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:16",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:23",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:20",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:3",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:12",
+        "disease": "SYNTHETIC:Disease:0",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:4",
+        "disease": "SYNTHETIC:Disease:0",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:11",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:13",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:19",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:10",
+        "disease": "SYNTHETIC:Disease:6",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:21",
+        "disease": "SYNTHETIC:Disease:0",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:11",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 0
+      }
+    ],
+    "test": [
+      {
+        "drug": "SYNTHETIC:Drug:21",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:9",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:8",
+        "disease": "SYNTHETIC:Disease:6",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:9",
+        "disease": "SYNTHETIC:Disease:2",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:3",
+        "disease": "SYNTHETIC:Disease:3",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:2",
+        "disease": "SYNTHETIC:Disease:6",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:9",
+        "disease": "SYNTHETIC:Disease:6",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:1",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:14",
+        "disease": "SYNTHETIC:Disease:6",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:0",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:12",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:21",
+        "disease": "SYNTHETIC:Disease:1",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:11",
+        "disease": "SYNTHETIC:Disease:7",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:22",
+        "disease": "SYNTHETIC:Disease:7",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:20",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:14",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:17",
+        "disease": "SYNTHETIC:Disease:5",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:16",
+        "disease": "SYNTHETIC:Disease:0",
+        "label": 1
+      },
+      {
+        "drug": "SYNTHETIC:Drug:17",
+        "disease": "SYNTHETIC:Disease:4",
+        "label": 0
+      },
+      {
+        "drug": "SYNTHETIC:Drug:3",
+        "disease": "SYNTHETIC:Disease:7",
+        "label": 1
+      }
+    ]
+  }
+}

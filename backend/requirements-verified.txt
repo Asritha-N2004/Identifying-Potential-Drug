@@ -1,0 +1,11 @@
+# Verified Python 3.12 Windows core environment; optional database drivers excluded.
+fastapi==0.141.1
+uvicorn==0.52.1
+pydantic==2.13.4
+sqlalchemy==2.1.8
+networkx==3.6.1
+numpy==2.5.1
+scikit-learn==1.9.0
+torch==2.13.0
+httpx==0.28.1
+pytest==9.2.0

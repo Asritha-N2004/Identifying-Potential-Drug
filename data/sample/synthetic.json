@@ -1,0 +1,2879 @@
+{
+  "version": "synthetic-v2",
+  "entities": [
+    {
+      "id": "SYNTHETIC:Drug:0",
+      "name": "Synthetic Drug 01",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:1",
+      "name": "Synthetic Drug 02",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:2",
+      "name": "Synthetic Drug 03",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:3",
+      "name": "Synthetic Drug 04",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:4",
+      "name": "Synthetic Drug 05",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:5",
+      "name": "Synthetic Drug 06",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:6",
+      "name": "Synthetic Drug 07",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:7",
+      "name": "Synthetic Drug 08",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:8",
+      "name": "Synthetic Drug 09",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:9",
+      "name": "Synthetic Drug 10",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:10",
+      "name": "Synthetic Drug 11",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:11",
+      "name": "Synthetic Drug 12",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:12",
+      "name": "Synthetic Drug 13",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:13",
+      "name": "Synthetic Drug 14",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:14",
+      "name": "Synthetic Drug 15",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:15",
+      "name": "Synthetic Drug 16",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:16",
+      "name": "Synthetic Drug 17",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:17",
+      "name": "Synthetic Drug 18",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:18",
+      "name": "Synthetic Drug 19",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:19",
+      "name": "Synthetic Drug 20",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:20",
+      "name": "Synthetic Drug 21",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:21",
+      "name": "Synthetic Drug 22",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:22",
+      "name": "Synthetic Drug 23",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Drug:23",
+      "name": "Synthetic Drug 24",
+      "kind": "Drug",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Disease:0",
+      "name": "Synthetic Disease 01",
+      "kind": "Disease",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Disease:1",
+      "name": "Synthetic Disease 02",
+      "kind": "Disease",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Disease:2",
+      "name": "Synthetic Disease 03",
+      "kind": "Disease",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Disease:3",
+      "name": "Synthetic Disease 04",
+      "kind": "Disease",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Disease:4",
+      "name": "Synthetic Disease 05",
+      "kind": "Disease",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Disease:5",
+      "name": "Synthetic Disease 06",
+      "kind": "Disease",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Disease:6",
+      "name": "Synthetic Disease 07",
+      "kind": "Disease",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Disease:7",
+      "name": "Synthetic Disease 08",
+      "kind": "Disease",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:0",
+      "name": "Synthetic Gene 01",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:1",
+      "name": "Synthetic Gene 02",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:2",
+      "name": "Synthetic Gene 03",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:3",
+      "name": "Synthetic Gene 04",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:4",
+      "name": "Synthetic Gene 05",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:5",
+      "name": "Synthetic Gene 06",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:6",
+      "name": "Synthetic Gene 07",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:7",
+      "name": "Synthetic Gene 08",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:8",
+      "name": "Synthetic Gene 09",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:9",
+      "name": "Synthetic Gene 10",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:10",
+      "name": "Synthetic Gene 11",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:11",
+      "name": "Synthetic Gene 12",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:12",
+      "name": "Synthetic Gene 13",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:13",
+      "name": "Synthetic Gene 14",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:14",
+      "name": "Synthetic Gene 15",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Gene:15",
+      "name": "Synthetic Gene 16",
+      "kind": "Gene",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:0",
+      "name": "Synthetic Protein 01",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:1",
+      "name": "Synthetic Protein 02",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:2",
+      "name": "Synthetic Protein 03",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:3",
+      "name": "Synthetic Protein 04",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:4",
+      "name": "Synthetic Protein 05",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:5",
+      "name": "Synthetic Protein 06",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:6",
+      "name": "Synthetic Protein 07",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:7",
+      "name": "Synthetic Protein 08",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:8",
+      "name": "Synthetic Protein 09",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:9",
+      "name": "Synthetic Protein 10",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:10",
+      "name": "Synthetic Protein 11",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:11",
+      "name": "Synthetic Protein 12",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:12",
+      "name": "Synthetic Protein 13",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:13",
+      "name": "Synthetic Protein 14",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:14",
+      "name": "Synthetic Protein 15",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Protein:15",
+      "name": "Synthetic Protein 16",
+      "kind": "Protein",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Pathway:0",
+      "name": "Synthetic Pathway 01",
+      "kind": "Pathway",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Pathway:1",
+      "name": "Synthetic Pathway 02",
+      "kind": "Pathway",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Pathway:2",
+      "name": "Synthetic Pathway 03",
+      "kind": "Pathway",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:Pathway:3",
+      "name": "Synthetic Pathway 04",
+      "kind": "Pathway",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:BiologicalProcess:0",
+      "name": "Synthetic BiologicalProcess 01",
+      "kind": "BiologicalProcess",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:BiologicalProcess:1",
+      "name": "Synthetic BiologicalProcess 02",
+      "kind": "BiologicalProcess",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:BiologicalProcess:2",
+      "name": "Synthetic BiologicalProcess 03",
+      "kind": "BiologicalProcess",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    },
+    {
+      "id": "SYNTHETIC:BiologicalProcess:3",
+      "name": "Synthetic BiologicalProcess 04",
+      "kind": "BiologicalProcess",
+      "synthetic": true,
+      "synonyms": [],
+      "attributes": {}
+    }
+  ],
+  "relationships": [
+    {
+      "source": "SYNTHETIC:Protein:0",
+      "target": "SYNTHETIC:Gene:0",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 0; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-0",
+        "reference": "fixture://v1/0",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:0",
+      "target": "SYNTHETIC:Pathway:0",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 1; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-1",
+        "reference": "fixture://v1/1",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:0",
+      "target": "SYNTHETIC:Disease:0",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 2; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-2",
+        "reference": "fixture://v1/2",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:1",
+      "target": "SYNTHETIC:Gene:1",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 3; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-3",
+        "reference": "fixture://v1/3",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:1",
+      "target": "SYNTHETIC:Pathway:1",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 4; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-4",
+        "reference": "fixture://v1/4",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:1",
+      "target": "SYNTHETIC:Disease:1",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 5; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-5",
+        "reference": "fixture://v1/5",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:2",
+      "target": "SYNTHETIC:Gene:2",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 6; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-6",
+        "reference": "fixture://v1/6",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:2",
+      "target": "SYNTHETIC:Pathway:2",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 7; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-7",
+        "reference": "fixture://v1/7",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:2",
+      "target": "SYNTHETIC:Disease:2",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 8; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-8",
+        "reference": "fixture://v1/8",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:3",
+      "target": "SYNTHETIC:Gene:3",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 9; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-9",
+        "reference": "fixture://v1/9",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:3",
+      "target": "SYNTHETIC:Pathway:3",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 10; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-10",
+        "reference": "fixture://v1/10",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:3",
+      "target": "SYNTHETIC:Disease:3",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 11; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-11",
+        "reference": "fixture://v1/11",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:4",
+      "target": "SYNTHETIC:Gene:4",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 12; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-12",
+        "reference": "fixture://v1/12",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:4",
+      "target": "SYNTHETIC:Pathway:0",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 13; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-13",
+        "reference": "fixture://v1/13",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:4",
+      "target": "SYNTHETIC:Disease:4",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 14; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-14",
+        "reference": "fixture://v1/14",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:5",
+      "target": "SYNTHETIC:Gene:5",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 15; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-15",
+        "reference": "fixture://v1/15",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:5",
+      "target": "SYNTHETIC:Pathway:1",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 16; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-16",
+        "reference": "fixture://v1/16",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:5",
+      "target": "SYNTHETIC:Disease:5",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 17; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-17",
+        "reference": "fixture://v1/17",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:6",
+      "target": "SYNTHETIC:Gene:6",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 18; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-18",
+        "reference": "fixture://v1/18",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:6",
+      "target": "SYNTHETIC:Pathway:2",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 19; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-19",
+        "reference": "fixture://v1/19",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:6",
+      "target": "SYNTHETIC:Disease:6",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 20; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-20",
+        "reference": "fixture://v1/20",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:7",
+      "target": "SYNTHETIC:Gene:7",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 21; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-21",
+        "reference": "fixture://v1/21",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:7",
+      "target": "SYNTHETIC:Pathway:3",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 22; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-22",
+        "reference": "fixture://v1/22",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:7",
+      "target": "SYNTHETIC:Disease:7",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 23; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-23",
+        "reference": "fixture://v1/23",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:8",
+      "target": "SYNTHETIC:Gene:8",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 24; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-24",
+        "reference": "fixture://v1/24",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:8",
+      "target": "SYNTHETIC:Pathway:0",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 25; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-25",
+        "reference": "fixture://v1/25",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:8",
+      "target": "SYNTHETIC:Disease:0",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 26; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-26",
+        "reference": "fixture://v1/26",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:9",
+      "target": "SYNTHETIC:Gene:9",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 27; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-27",
+        "reference": "fixture://v1/27",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:9",
+      "target": "SYNTHETIC:Pathway:1",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 28; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-28",
+        "reference": "fixture://v1/28",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:9",
+      "target": "SYNTHETIC:Disease:1",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 29; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-29",
+        "reference": "fixture://v1/29",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:10",
+      "target": "SYNTHETIC:Gene:10",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 30; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-30",
+        "reference": "fixture://v1/30",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:10",
+      "target": "SYNTHETIC:Pathway:2",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 31; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-31",
+        "reference": "fixture://v1/31",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:10",
+      "target": "SYNTHETIC:Disease:2",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 32; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-32",
+        "reference": "fixture://v1/32",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:11",
+      "target": "SYNTHETIC:Gene:11",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 33; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-33",
+        "reference": "fixture://v1/33",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:11",
+      "target": "SYNTHETIC:Pathway:3",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 34; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-34",
+        "reference": "fixture://v1/34",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:11",
+      "target": "SYNTHETIC:Disease:3",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 35; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-35",
+        "reference": "fixture://v1/35",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:12",
+      "target": "SYNTHETIC:Gene:12",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 36; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-36",
+        "reference": "fixture://v1/36",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:12",
+      "target": "SYNTHETIC:Pathway:0",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 37; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-37",
+        "reference": "fixture://v1/37",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:12",
+      "target": "SYNTHETIC:Disease:4",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 38; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-38",
+        "reference": "fixture://v1/38",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:13",
+      "target": "SYNTHETIC:Gene:13",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 39; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-39",
+        "reference": "fixture://v1/39",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:13",
+      "target": "SYNTHETIC:Pathway:1",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 40; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-40",
+        "reference": "fixture://v1/40",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:13",
+      "target": "SYNTHETIC:Disease:5",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 41; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-41",
+        "reference": "fixture://v1/41",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:14",
+      "target": "SYNTHETIC:Gene:14",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 42; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-42",
+        "reference": "fixture://v1/42",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:14",
+      "target": "SYNTHETIC:Pathway:2",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 43; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-43",
+        "reference": "fixture://v1/43",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:14",
+      "target": "SYNTHETIC:Disease:6",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 44; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-44",
+        "reference": "fixture://v1/44",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:15",
+      "target": "SYNTHETIC:Gene:15",
+      "relation": "ENCODED_BY",
+      "description": "SYNTHETIC fixture relationship 45; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-45",
+        "reference": "fixture://v1/45",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:15",
+      "target": "SYNTHETIC:Pathway:3",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 46; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-46",
+        "reference": "fixture://v1/46",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Gene:15",
+      "target": "SYNTHETIC:Disease:7",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 47; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-47",
+        "reference": "fixture://v1/47",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Disease:0",
+      "target": "SYNTHETIC:Pathway:0",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 48; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-48",
+        "reference": "fixture://v1/48",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Pathway:0",
+      "target": "SYNTHETIC:BiologicalProcess:0",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 49; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-49",
+        "reference": "fixture://v1/49",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Disease:1",
+      "target": "SYNTHETIC:Pathway:1",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 50; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-50",
+        "reference": "fixture://v1/50",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Pathway:1",
+      "target": "SYNTHETIC:BiologicalProcess:1",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 51; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-51",
+        "reference": "fixture://v1/51",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Disease:2",
+      "target": "SYNTHETIC:Pathway:2",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 52; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-52",
+        "reference": "fixture://v1/52",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Pathway:2",
+      "target": "SYNTHETIC:BiologicalProcess:2",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 53; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-53",
+        "reference": "fixture://v1/53",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Disease:3",
+      "target": "SYNTHETIC:Pathway:3",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 54; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-54",
+        "reference": "fixture://v1/54",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Pathway:3",
+      "target": "SYNTHETIC:BiologicalProcess:3",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 55; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-55",
+        "reference": "fixture://v1/55",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Disease:4",
+      "target": "SYNTHETIC:Pathway:0",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 56; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-56",
+        "reference": "fixture://v1/56",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Pathway:0",
+      "target": "SYNTHETIC:BiologicalProcess:0",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 57; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-57",
+        "reference": "fixture://v1/57",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Disease:5",
+      "target": "SYNTHETIC:Pathway:1",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 58; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-58",
+        "reference": "fixture://v1/58",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Pathway:1",
+      "target": "SYNTHETIC:BiologicalProcess:1",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 59; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-59",
+        "reference": "fixture://v1/59",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Disease:6",
+      "target": "SYNTHETIC:Pathway:2",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 60; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-60",
+        "reference": "fixture://v1/60",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Pathway:2",
+      "target": "SYNTHETIC:BiologicalProcess:2",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 61; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-61",
+        "reference": "fixture://v1/61",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Disease:7",
+      "target": "SYNTHETIC:Pathway:3",
+      "relation": "ASSOCIATED_WITH",
+      "description": "SYNTHETIC fixture relationship 62; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-62",
+        "reference": "fixture://v1/62",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Pathway:3",
+      "target": "SYNTHETIC:BiologicalProcess:3",
+      "relation": "PARTICIPATES_IN",
+      "description": "SYNTHETIC fixture relationship 63; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-63",
+        "reference": "fixture://v1/63",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:0",
+      "target": "SYNTHETIC:Protein:0",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 64; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-64",
+        "reference": "fixture://v1/64",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:0",
+      "target": "SYNTHETIC:Disease:0",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 65; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-65",
+        "reference": "fixture://v1/65",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:0",
+      "target": "SYNTHETIC:Disease:4",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 66; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-66",
+        "reference": "fixture://v1/66",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:1",
+      "target": "SYNTHETIC:Protein:1",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 67; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-67",
+        "reference": "fixture://v1/67",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:1",
+      "target": "SYNTHETIC:Disease:1",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 68; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-68",
+        "reference": "fixture://v1/68",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:1",
+      "target": "SYNTHETIC:Disease:5",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 69; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-69",
+        "reference": "fixture://v1/69",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:2",
+      "target": "SYNTHETIC:Protein:2",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 70; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-70",
+        "reference": "fixture://v1/70",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:2",
+      "target": "SYNTHETIC:Disease:2",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 71; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-71",
+        "reference": "fixture://v1/71",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:2",
+      "target": "SYNTHETIC:Disease:6",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 72; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-72",
+        "reference": "fixture://v1/72",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:3",
+      "target": "SYNTHETIC:Protein:3",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 73; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-73",
+        "reference": "fixture://v1/73",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:3",
+      "target": "SYNTHETIC:Disease:3",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 74; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-74",
+        "reference": "fixture://v1/74",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:3",
+      "target": "SYNTHETIC:Disease:7",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 75; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-75",
+        "reference": "fixture://v1/75",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:4",
+      "target": "SYNTHETIC:Protein:4",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 76; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-76",
+        "reference": "fixture://v1/76",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:4",
+      "target": "SYNTHETIC:Disease:4",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 77; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-77",
+        "reference": "fixture://v1/77",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:4",
+      "target": "SYNTHETIC:Disease:0",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 78; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-78",
+        "reference": "fixture://v1/78",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:5",
+      "target": "SYNTHETIC:Protein:5",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 79; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-79",
+        "reference": "fixture://v1/79",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:5",
+      "target": "SYNTHETIC:Disease:5",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 80; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-80",
+        "reference": "fixture://v1/80",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:5",
+      "target": "SYNTHETIC:Disease:1",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 81; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-81",
+        "reference": "fixture://v1/81",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:6",
+      "target": "SYNTHETIC:Protein:6",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 82; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-82",
+        "reference": "fixture://v1/82",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:6",
+      "target": "SYNTHETIC:Disease:6",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 83; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-83",
+        "reference": "fixture://v1/83",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:6",
+      "target": "SYNTHETIC:Disease:2",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 84; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-84",
+        "reference": "fixture://v1/84",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:7",
+      "target": "SYNTHETIC:Protein:7",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 85; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-85",
+        "reference": "fixture://v1/85",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:7",
+      "target": "SYNTHETIC:Disease:7",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 86; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-86",
+        "reference": "fixture://v1/86",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:7",
+      "target": "SYNTHETIC:Disease:3",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 87; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-87",
+        "reference": "fixture://v1/87",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:8",
+      "target": "SYNTHETIC:Protein:8",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 88; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-88",
+        "reference": "fixture://v1/88",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:8",
+      "target": "SYNTHETIC:Disease:0",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 89; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-89",
+        "reference": "fixture://v1/89",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:8",
+      "target": "SYNTHETIC:Disease:4",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 90; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-90",
+        "reference": "fixture://v1/90",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:9",
+      "target": "SYNTHETIC:Protein:9",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 91; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-91",
+        "reference": "fixture://v1/91",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:9",
+      "target": "SYNTHETIC:Disease:1",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 92; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-92",
+        "reference": "fixture://v1/92",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:9",
+      "target": "SYNTHETIC:Disease:5",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 93; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-93",
+        "reference": "fixture://v1/93",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:10",
+      "target": "SYNTHETIC:Protein:10",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 94; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-94",
+        "reference": "fixture://v1/94",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:10",
+      "target": "SYNTHETIC:Disease:2",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 95; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-95",
+        "reference": "fixture://v1/95",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:10",
+      "target": "SYNTHETIC:Disease:6",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 96; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-96",
+        "reference": "fixture://v1/96",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:11",
+      "target": "SYNTHETIC:Protein:11",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 97; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-97",
+        "reference": "fixture://v1/97",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:11",
+      "target": "SYNTHETIC:Disease:3",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 98; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-98",
+        "reference": "fixture://v1/98",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:11",
+      "target": "SYNTHETIC:Disease:7",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 99; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-99",
+        "reference": "fixture://v1/99",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:12",
+      "target": "SYNTHETIC:Protein:12",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 100; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-100",
+        "reference": "fixture://v1/100",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:12",
+      "target": "SYNTHETIC:Disease:4",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 101; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-101",
+        "reference": "fixture://v1/101",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:12",
+      "target": "SYNTHETIC:Disease:0",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 102; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-102",
+        "reference": "fixture://v1/102",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:13",
+      "target": "SYNTHETIC:Protein:13",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 103; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-103",
+        "reference": "fixture://v1/103",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:13",
+      "target": "SYNTHETIC:Disease:5",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 104; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-104",
+        "reference": "fixture://v1/104",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:13",
+      "target": "SYNTHETIC:Disease:1",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 105; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-105",
+        "reference": "fixture://v1/105",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:14",
+      "target": "SYNTHETIC:Protein:14",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 106; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-106",
+        "reference": "fixture://v1/106",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:14",
+      "target": "SYNTHETIC:Disease:6",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 107; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-107",
+        "reference": "fixture://v1/107",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:14",
+      "target": "SYNTHETIC:Disease:2",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 108; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-108",
+        "reference": "fixture://v1/108",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:15",
+      "target": "SYNTHETIC:Protein:15",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 109; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-109",
+        "reference": "fixture://v1/109",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:15",
+      "target": "SYNTHETIC:Disease:7",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 110; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-110",
+        "reference": "fixture://v1/110",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:15",
+      "target": "SYNTHETIC:Disease:3",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 111; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-111",
+        "reference": "fixture://v1/111",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:16",
+      "target": "SYNTHETIC:Protein:0",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 112; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-112",
+        "reference": "fixture://v1/112",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:16",
+      "target": "SYNTHETIC:Disease:0",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 113; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-113",
+        "reference": "fixture://v1/113",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:16",
+      "target": "SYNTHETIC:Disease:4",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 114; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-114",
+        "reference": "fixture://v1/114",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:17",
+      "target": "SYNTHETIC:Protein:1",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 115; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-115",
+        "reference": "fixture://v1/115",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:17",
+      "target": "SYNTHETIC:Disease:1",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 116; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-116",
+        "reference": "fixture://v1/116",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:17",
+      "target": "SYNTHETIC:Disease:5",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 117; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-117",
+        "reference": "fixture://v1/117",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:18",
+      "target": "SYNTHETIC:Protein:2",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 118; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-118",
+        "reference": "fixture://v1/118",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:18",
+      "target": "SYNTHETIC:Disease:2",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 119; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-119",
+        "reference": "fixture://v1/119",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:18",
+      "target": "SYNTHETIC:Disease:6",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 120; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-120",
+        "reference": "fixture://v1/120",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:19",
+      "target": "SYNTHETIC:Protein:3",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 121; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-121",
+        "reference": "fixture://v1/121",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:19",
+      "target": "SYNTHETIC:Disease:3",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 122; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-122",
+        "reference": "fixture://v1/122",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:19",
+      "target": "SYNTHETIC:Disease:7",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 123; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-123",
+        "reference": "fixture://v1/123",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:20",
+      "target": "SYNTHETIC:Protein:4",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 124; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-124",
+        "reference": "fixture://v1/124",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:20",
+      "target": "SYNTHETIC:Disease:4",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 125; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-125",
+        "reference": "fixture://v1/125",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:20",
+      "target": "SYNTHETIC:Disease:0",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 126; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-126",
+        "reference": "fixture://v1/126",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:21",
+      "target": "SYNTHETIC:Protein:5",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 127; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-127",
+        "reference": "fixture://v1/127",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:21",
+      "target": "SYNTHETIC:Disease:5",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 128; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-128",
+        "reference": "fixture://v1/128",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:21",
+      "target": "SYNTHETIC:Disease:1",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 129; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-129",
+        "reference": "fixture://v1/129",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:22",
+      "target": "SYNTHETIC:Protein:6",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 130; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-130",
+        "reference": "fixture://v1/130",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:22",
+      "target": "SYNTHETIC:Disease:6",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 131; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-131",
+        "reference": "fixture://v1/131",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:22",
+      "target": "SYNTHETIC:Disease:2",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 132; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-132",
+        "reference": "fixture://v1/132",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:23",
+      "target": "SYNTHETIC:Protein:7",
+      "relation": "TARGETS",
+      "description": "SYNTHETIC fixture relationship 133; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-133",
+        "reference": "fixture://v1/133",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:23",
+      "target": "SYNTHETIC:Disease:7",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 134; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-134",
+        "reference": "fixture://v1/134",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Drug:23",
+      "target": "SYNTHETIC:Disease:3",
+      "relation": "TREATS",
+      "description": "SYNTHETIC fixture relationship 135; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-135",
+        "reference": "fixture://v1/135",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      }
+    },
+    {
+      "source": "SYNTHETIC:Protein:0",
+      "target": "SYNTHETIC:Protein:1",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 136; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-136",
+        "reference": "fixture://v1/136",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:1",
+      "target": "SYNTHETIC:Protein:2",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 137; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-137",
+        "reference": "fixture://v1/137",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:2",
+      "target": "SYNTHETIC:Protein:3",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 138; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-138",
+        "reference": "fixture://v1/138",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:3",
+      "target": "SYNTHETIC:Protein:4",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 139; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-139",
+        "reference": "fixture://v1/139",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:4",
+      "target": "SYNTHETIC:Protein:5",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 140; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-140",
+        "reference": "fixture://v1/140",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:5",
+      "target": "SYNTHETIC:Protein:6",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 141; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-141",
+        "reference": "fixture://v1/141",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:6",
+      "target": "SYNTHETIC:Protein:7",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 142; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-142",
+        "reference": "fixture://v1/142",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:7",
+      "target": "SYNTHETIC:Protein:8",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 143; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-143",
+        "reference": "fixture://v1/143",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:8",
+      "target": "SYNTHETIC:Protein:9",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 144; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-144",
+        "reference": "fixture://v1/144",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:9",
+      "target": "SYNTHETIC:Protein:10",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 145; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-145",
+        "reference": "fixture://v1/145",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:10",
+      "target": "SYNTHETIC:Protein:11",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 146; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-146",
+        "reference": "fixture://v1/146",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:11",
+      "target": "SYNTHETIC:Protein:12",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 147; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-147",
+        "reference": "fixture://v1/147",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:12",
+      "target": "SYNTHETIC:Protein:13",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 148; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-148",
+        "reference": "fixture://v1/148",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:13",
+      "target": "SYNTHETIC:Protein:14",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 149; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-149",
+        "reference": "fixture://v1/149",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:14",
+      "target": "SYNTHETIC:Protein:15",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 150; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-150",
+        "reference": "fixture://v1/150",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    },
+    {
+      "source": "SYNTHETIC:Protein:15",
+      "target": "SYNTHETIC:Protein:0",
+      "relation": "INTERACTS_WITH",
+      "description": "SYNTHETIC fixture relationship 151; no biological claim",
+      "provenance": {
+        "source": "SYNTHETIC",
+        "record_id": "fixture-151",
+        "reference": "fixture://v1/151",
+        "retrieved_at": "2026-01-01T00:00:00Z",
+        "evidence_type": "synthetic",
+        "license": "CC0-1.0",
+        "synthetic": true
+      },
+      "directed": false
+    }
+  ]
+}

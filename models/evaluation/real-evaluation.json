@@ -1,0 +1,1109 @@
+{
+  "dataset_version": "opentargets-real-v1",
+  "graph_sha256": "424006a5efc2df196f73f0afb74a7db706dc9d4019a2324151ef6cd33cba9f38",
+  "synthetic": false,
+  "seed": 42,
+  "model": "R-GCN + DistMult",
+  "version": "1",
+  "epochs_requested": 60,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.7281240224838257,
+      "validation_loss": 0.6869308352470398
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6461926102638245,
+      "validation_loss": 0.6847804188728333
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.5881434082984924,
+      "validation_loss": 0.7265021800994873
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.5236567854881287,
+      "validation_loss": 0.8348013162612915
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.47727057337760925,
+      "validation_loss": 0.9044193625450134
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.44151946902275085,
+      "validation_loss": 0.9403308033943176
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.4260267913341522,
+      "validation_loss": 0.926249086856842
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.39591988921165466,
+      "validation_loss": 0.9211603999137878
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.37995579838752747,
+      "validation_loss": 0.9125453233718872
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.3717104494571686,
+      "validation_loss": 0.9183284044265747
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.3678593635559082,
+      "validation_loss": 0.9366335272789001
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.3664925992488861,
+      "validation_loss": 0.9615417122840881
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.36626917123794556,
+      "validation_loss": 0.9917122721672058
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.3657287657260895,
+      "validation_loss": 1.0244296789169312
+    }
+  ],
+  "split": {
+    "train": 55,
+    "validation": 18,
+    "test": 19
+  },
+  "metrics": {
+    "R-GCN": {
+      "roc_auc": 0.8666666666666667,
+      "average_precision": 0.902336860670194,
+      "precision_at_10": 0.8,
+      "recall_at_10": 0.8888888888888888,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          0.0,
+          0.1,
+          0.1,
+          0.9,
+          0.9,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.1111111111111111,
+          0.5555555555555556,
+          0.5555555555555556,
+          0.8888888888888888,
+          0.8888888888888888,
+          1.0,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          1.0,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.7777777777777778,
+          0.6666666666666666,
+          0.5555555555555556,
+          0.5555555555555556,
+          0.4444444444444444,
+          0.3333333333333333,
+          0.2222222222222222,
+          0.1111111111111111,
+          0.0
+        ],
+        "y": [
+          0.47368421052631576,
+          0.5,
+          0.47058823529411764,
+          0.5,
+          0.5333333333333333,
+          0.5714285714285714,
+          0.6153846153846154,
+          0.6666666666666666,
+          0.7272727272727273,
+          0.8,
+          0.8888888888888888,
+          0.875,
+          0.8571428571428571,
+          0.8333333333333334,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Logistic regression": {
+      "roc_auc": 0.75,
+      "average_precision": 0.6807620904112133,
+      "precision_at_10": 0.8,
+      "recall_at_10": 0.8888888888888888,
+      "hit_at_10": true,
+      "reciprocal_rank": 0.5,
+      "roc": {
+        "x": [
+          0.0,
+          0.1,
+          0.1,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.3,
+          0.5,
+          0.6,
+          1.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.0,
+          0.3333333333333333,
+          0.4444444444444444,
+          0.5555555555555556,
+          0.7777777777777778,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.7777777777777778,
+          0.5555555555555556,
+          0.4444444444444444,
+          0.3333333333333333,
+          0.2222222222222222,
+          0.1111111111111111,
+          0.0,
+          0.0
+        ],
+        "y": [
+          0.47368421052631576,
+          0.4444444444444444,
+          0.5,
+          0.5714285714285714,
+          0.6153846153846154,
+          0.7272727272727273,
+          0.8,
+          0.7777777777777778,
+          0.7142857142857143,
+          0.6666666666666666,
+          0.75,
+          0.6666666666666666,
+          0.5,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    "Random forest": {
+      "roc_auc": 0.9388888888888889,
+      "average_precision": 0.941919191919192,
+      "precision_at_10": 0.8,
+      "recall_at_10": 0.8888888888888888,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.3,
+          0.3,
+          0.5,
+          0.6,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.1111111111111111,
+          0.2222222222222222,
+          0.4444444444444444,
+          0.7777777777777778,
+          0.7777777777777778,
+          0.8888888888888888,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8888888888888888,
+          0.7777777777777778,
+          0.7777777777777778,
+          0.7777777777777778,
+          0.6666666666666666,
+          0.5555555555555556,
+          0.4444444444444444,
+          0.2222222222222222,
+          0.1111111111111111,
+          0.0
+        ],
+        "y": [
+          0.47368421052631576,
+          0.5294117647058824,
+          0.6,
+          0.6428571428571429,
+          0.75,
+          0.7272727272727273,
+          0.7777777777777778,
+          0.875,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Common neighbors": {
+      "roc_auc": 0.5555555555555556,
+      "average_precision": 0.5321637426900585,
+      "precision_at_10": 0.6,
+      "recall_at_10": 0.6666666666666666,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.1111111111111111,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.1111111111111111,
+          0.0
+        ],
+        "y": [
+          0.47368421052631576,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Jaccard": {
+      "roc_auc": 0.5555555555555556,
+      "average_precision": 0.5321637426900585,
+      "precision_at_10": 0.6,
+      "recall_at_10": 0.6666666666666666,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.1111111111111111,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.1111111111111111,
+          0.0
+        ],
+        "y": [
+          0.47368421052631576,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Adamic-Adar": {
+      "roc_auc": 0.5555555555555556,
+      "average_precision": 0.5321637426900585,
+      "precision_at_10": 0.6,
+      "recall_at_10": 0.6666666666666666,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.1111111111111111,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.1111111111111111,
+          0.0
+        ],
+        "y": [
+          0.47368421052631576,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Resource allocation": {
+      "roc_auc": 0.5555555555555556,
+      "average_precision": 0.5321637426900585,
+      "precision_at_10": 0.6,
+      "recall_at_10": 0.6666666666666666,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.1111111111111111,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.1111111111111111,
+          0.0
+        ],
+        "y": [
+          0.47368421052631576,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Personalized PageRank": {
+      "roc_auc": 0.3777777777777777,
+      "average_precision": 0.49553492316650205,
+      "precision_at_10": 0.3,
+      "recall_at_10": 0.3333333333333333,
+      "hit_at_10": true,
+      "reciprocal_rank": 0.5,
+      "roc": {
+        "x": [
+          0.0,
+          0.1,
+          0.1,
+          0.3,
+          0.7,
+          0.7,
+          0.9,
+          0.9,
+          0.9,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.0,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.5555555555555556,
+          0.7777777777777778,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.7777777777777778,
+          0.5555555555555556,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.2222222222222222,
+          0.1111111111111111,
+          0.0,
+          0.0
+        ],
+        "y": [
+          0.47368421052631576,
+          0.4375,
+          0.35714285714285715,
+          0.3076923076923077,
+          0.36363636363636365,
+          0.3,
+          0.375,
+          0.5,
+          0.6,
+          0.75,
+          0.6666666666666666,
+          0.5,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    "Logistic regression: topology only": {
+      "roc_auc": 0.38888888888888884,
+      "average_precision": 0.5510904787220576,
+      "precision_at_10": 0.3,
+      "recall_at_10": 0.3333333333333333,
+      "hit_at_10": true,
+      "reciprocal_rank": 1.0,
+      "roc": {
+        "x": [
+          0.0,
+          0.0,
+          0.1,
+          0.1,
+          0.3,
+          0.7,
+          0.7,
+          0.9,
+          0.9,
+          0.9,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.1111111111111111,
+          0.1111111111111111,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.5555555555555556,
+          0.7777777777777778,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.7777777777777778,
+          0.5555555555555556,
+          0.4444444444444444,
+          0.4444444444444444,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.2222222222222222,
+          0.1111111111111111,
+          0.1111111111111111,
+          0.0
+        ],
+        "y": [
+          0.47368421052631576,
+          0.4375,
+          0.35714285714285715,
+          0.3076923076923077,
+          0.36363636363636365,
+          0.3,
+          0.375,
+          0.5,
+          0.6,
+          0.75,
+          0.6666666666666666,
+          0.5,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Logistic regression: degree only": {
+      "roc_auc": 0.7388888888888888,
+      "average_precision": 0.695224171539961,
+      "precision_at_10": 0.8,
+      "recall_at_10": 0.8888888888888888,
+      "hit_at_10": true,
+      "reciprocal_rank": 0.5,
+      "roc": {
+        "x": [
+          0.0,
+          0.1,
+          0.1,
+          0.2,
+          0.2,
+          0.2,
+          0.5,
+          1.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          0.0,
+          0.2222222222222222,
+          0.3333333333333333,
+          0.6666666666666666,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          1.0
+        ]
+      },
+      "pr": {
+        "x": [
+          1.0,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.6666666666666666,
+          0.3333333333333333,
+          0.2222222222222222,
+          0.0,
+          0.0
+        ],
+        "y": [
+          0.47368421052631576,
+          0.4444444444444444,
+          0.6153846153846154,
+          0.8,
+          0.75,
+          0.6,
+          0.6666666666666666,
+          0.0,
+          1.0
+        ]
+      }
+    }
+  },
+  "limitations": [
+    "Sampled unlabeled controls are not confirmed negatives.",
+    "Random pair split only; no temporal or cold-start validation.",
+    "Pooled ranking metrics apply to the sampled test set, not disease-specific retrieval.",
+    "No calibrated clinical probabilities or confidence intervals.",
+    "Bounded disease/drug selection creates ascertainment bias.",
+    "Genetic datatype scores exclude known-drug support, but aggregate-ranked target selection can retain selection bias.",
+    "All approved and investigational clinical edges are excluded from graph features; clinical pairs are excluded from unlabeled controls."
+  ],
+  "split_pairs": {
+    "train": [
+      {
+        "drug": "CHEMBL160",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL2108809",
+        "disease": "MONDO_0005265",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1475",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1297",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1159650",
+        "disease": "MONDO_0008383",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201581",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1169",
+        "disease": "MONDO_0008383",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201831",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1020",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1743034",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1131",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1475",
+        "disease": "MONDO_0008383",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1131",
+        "disease": "MONDO_0008383",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL2105611",
+        "disease": "MONDO_0008383",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1657",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1169",
+        "disease": "MONDO_0005083",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL131",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL131",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1237022",
+        "disease": "MONDO_0005083",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1766",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL2105611",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201581",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1297",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1070",
+        "disease": "MONDO_0005083",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201575",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201346",
+        "disease": "MONDO_0005265",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1200806",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1071",
+        "disease": "MONDO_0005083",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL2108809",
+        "disease": "MONDO_0008383",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201570",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201346",
+        "disease": "MONDO_0008383",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1766",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL2021430",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1743068",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201835",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1657",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1034",
+        "disease": "MONDO_0005083",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201833",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL2021430",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1200666",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201572",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1200806",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1200666",
+        "disease": "MONDO_0008383",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL160",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201570",
+        "disease": "MONDO_0005083",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201580",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1200804",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201576",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1742996",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL118",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1200613",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1200806",
+        "disease": "MONDO_0005083",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1742996",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201834",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1070",
+        "disease": "MONDO_0008383",
+        "label": 1
+      }
+    ],
+    "validation": [
+      {
+        "drug": "CHEMBL1201081",
+        "disease": "MONDO_0005083",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1131",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1766",
+        "disease": "MONDO_0008383",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL193240",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1237022",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1297",
+        "disease": "MONDO_0005083",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1200804",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1200384",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1159650",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201576",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL118",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201831",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201580",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1475",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201572",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1200613",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1071",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1200384",
+        "disease": "MONDO_0008383",
+        "label": 0
+      }
+    ],
+    "test": [
+      {
+        "drug": "CHEMBL2105611",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1169",
+        "disease": "MONDO_0005265",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1020",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1200384",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1743034",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL160",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1237022",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201823",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1034",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201081",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1201575",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201823",
+        "disease": "MONDO_0005083",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1743068",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201834",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL2021430",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1201572",
+        "disease": "MONDO_0005083",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL1034",
+        "disease": "MONDO_0005265",
+        "label": 0
+      },
+      {
+        "drug": "CHEMBL1071",
+        "disease": "MONDO_0008383",
+        "label": 1
+      },
+      {
+        "drug": "CHEMBL2108809",
+        "disease": "MONDO_0005083",
+        "label": 0
+      }
+    ]
+  }
+}

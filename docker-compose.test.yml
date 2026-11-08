@@ -1,0 +1,45 @@
+# Isolated test services. No published database ports or production volumes.
+services:
+  postgres-test:
+    image: postgres:16.15-alpine
+    environment:
+      POSTGRES_DB: research_integration
+      POSTGRES_USER: research
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-local-test-change-me}
+    tmpfs: [/var/lib/postgresql/data]
+    healthcheck:
+      test: [CMD-SHELL, pg_isready -U research -d research_integration]
+      interval: 3s
+      retries: 30
+  neo4j-test:
+    image: neo4j:5.26.32-community
+    environment:
+      NEO4J_AUTH: neo4j/${NEO4J_PASSWORD:-local-test-change-me}
+      NEO4J_server_memory_heap_initial__size: 128m
+      NEO4J_server_memory_heap_max__size: 512m
+      NEO4J_server_memory_pagecache_size: 128m
+    tmpfs: [/data]
+    healthcheck:
+      test: [CMD-SHELL, "cypher-shell -a bolt://localhost:7687 -u neo4j -p \"$${NEO4J_AUTH#*/}\" 'RETURN 1;' >/dev/null"]
+      interval: 5s
+      start_period: 40s
+      retries: 30
+  tests:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    environment:
+      TEST_POSTGRES_URL: postgresql+psycopg://research:${POSTGRES_PASSWORD:-local-test-change-me}@postgres-test:5432/research_integration
+      TEST_NEO4J_URI: bolt://neo4j-test:7687
+      TEST_NEO4J_USERNAME: neo4j
+      TEST_NEO4J_PASSWORD: ${NEO4J_PASSWORD:-local-test-change-me}
+      OPENBLAS_NUM_THREADS: 1
+      OMP_NUM_THREADS: 1
+    command: [python, -m, pytest, -q, --junitxml=/app/runtime/container-tests.xml]
+    volumes:
+      - type: bind
+        source: ./runtime/container-tests
+        target: /app/runtime
+    depends_on:
+      postgres-test: {condition: service_healthy}
+      neo4j-test: {condition: service_healthy}

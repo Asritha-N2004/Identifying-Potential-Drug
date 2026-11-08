@@ -1,0 +1,69 @@
+{
+  "checked_at": "2026-11-08T05:01:33.188065+00:00",
+  "results": {
+    "europe_pmc": {
+      "status": "retrieved",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=metformin&format=json&pageSize=25&page=1&resultType=core",
+      "retrieved_at": "2026-11-08T05:01:33.172758+00:00",
+      "cached": false,
+      "bytes": 277231
+    },
+    "pubmed": {
+      "status": "retrieved",
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=metformin&retmode=json&retstart=0&retmax=25",
+      "retrieved_at": "2026-11-08T05:00:45.457246+00:00",
+      "cached": true,
+      "bytes": 1564
+    },
+    "chembl": {
+      "status": "retrieved",
+      "url": "https://www.ebi.ac.uk/chembl/api/data/molecule/search.json?q=metformin&limit=25&offset=0",
+      "retrieved_at": "2026-11-08T05:00:46.015446+00:00",
+      "cached": true,
+      "bytes": 98266
+    },
+    "pubchem": {
+      "status": "retrieved",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/metformin/property/MolecularFormula,MolecularWeight/JSON",
+      "retrieved_at": "2026-11-08T05:00:45.983528+00:00",
+      "cached": true,
+      "bytes": 508
+    },
+    "uniprot": {
+      "status": "retrieved",
+      "url": "https://rest.uniprot.org/uniprotkb/search?query=gene%3ATP53+AND+organism_id%3A9606&format=json&size=25",
+      "retrieved_at": "2026-11-08T05:00:46.070132+00:00",
+      "cached": true,
+      "bytes": 3072745
+    },
+    "reactome": {
+      "status": "retrieved",
+      "url": "https://reactome.org/ContentService/search/query?query=apoptosis&cluster=true&Start+row=0&rows=25",
+      "retrieved_at": "2026-11-08T05:01:31.436310+00:00",
+      "cached": false,
+      "bytes": 140668
+    },
+    "string": {
+      "status": "retrieved",
+      "url": "https://string-db.org/api/json/network?identifiers=TP53&species=9606&limit=25&caller_identity=graph-repurposing-research",
+      "retrieved_at": "2026-11-08T05:00:45.480590+00:00",
+      "cached": true,
+      "bytes": 65867
+    },
+    "opentargets": {
+      "status": "retrieved",
+      "url": "https://api.platform.opentargets.org/api/v4/graphql",
+      "retrieved_at": "2026-11-08T05:00:45.488932+00:00",
+      "cached": true,
+      "bytes": 4165
+    },
+    "openfda": {
+      "status": "retrieved",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name.exact%3A%22METFORMIN+HYDROCHLORIDE%22&limit=5&skip=0",
+      "retrieved_at": "2026-11-08T05:01:32.060311+00:00",
+      "cached": false,
+      "bytes": 616795
+    }
+  },
+  "scope": "Connectivity and JSON envelope only; no scientific claim verification."
+}

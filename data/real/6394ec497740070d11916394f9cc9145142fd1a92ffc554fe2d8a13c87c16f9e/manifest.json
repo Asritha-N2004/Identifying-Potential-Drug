@@ -1,0 +1,47 @@
+{
+  "source": "Open Targets + Europe PMC",
+  "retrieved_at": [
+    "2026-11-08T05:13:59.029959+00:00",
+    "2026-11-08T05:14:00.212776+00:00",
+    "2026-11-08T05:14:01.177124+00:00",
+    "2026-11-08T05:14:02.228622+00:00",
+    "2026-11-08T05:14:12.372038+00:00",
+    "2026-11-08T05:14:13.586025+00:00"
+  ],
+  "cases": [
+    {
+      "id": "MONDO_0008383",
+      "name": "rheumatoid arthritis",
+      "available_targets": 7261
+    },
+    {
+      "id": "MONDO_0005083",
+      "name": "psoriasis",
+      "available_targets": 7065
+    },
+    {
+      "id": "MONDO_0005265",
+      "name": "inflammatory bowel disease",
+      "available_targets": 5641
+    }
+  ],
+  "entities": 908,
+  "relationships": 1324,
+  "selected_drugs": 0,
+  "limitations": [
+    "Bounded subset, not a complete catalog.",
+    "Clinical stages are source assertions, not jurisdiction-specific approvals.",
+    "Genetic datatype scores exclude known-drug scores but are selected from aggregate-ranked targets; selection bias remains.",
+    "Open Targets aggregates upstream sources; these are not independent replications.",
+    "Publication search hits are unreviewed context only."
+  ],
+  "snapshot_id": "6394ec497740070d11916394f9cc9145142fd1a92ffc554fe2d8a13c87c16f9e",
+  "disease_ids": [
+    "MONDO_0008383",
+    "MONDO_0005083",
+    "MONDO_0005265"
+  ],
+  "target_limit": 100,
+  "drugs_per_disease": 20,
+  "raw_sha256": "6394ec497740070d11916394f9cc9145142fd1a92ffc554fe2d8a13c87c16f9e"
+}
